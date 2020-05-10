@@ -1,0 +1,1 @@
+#  get cmdb  add zabbix
